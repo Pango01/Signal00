@@ -37,7 +37,7 @@
             {
                 "answer": "Les sinusoïdes sont en opposition de phase (i.e. déphasées de pi)",
                 "correct": true,
-                "feedback": "Réponse correct ! cos(pi/2)=0 donc la sinusoïde somme est nulle !"
+                "feedback": "Réponse correcte ! cos(pi/2)=0 donc la sinusoïde somme est nulle !"
             },
             {
                 "answer": "Les phases des deux sinusoïdes sont égales",
