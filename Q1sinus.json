@@ -1,0 +1,28 @@
+ [
+ {
+        "question": "On obtient un signal somme d'amplitude maximale lorsque (une seule réponse vraie)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Les sinusoïdes sont déphasées de pi/2",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Les sinusoïdes sont en opposition de phase (i.e. déphasées de pi)",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Les phases des deux sinusoïdes sont égales",
+                "correct": true,
+                "feedback": "Correct ! Le sin(0) prend alors la valeur maximale de 1"
+            },
+            {
+                "answer": "les snusoïdes sont déphasées de pi/4",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    }
+    ]
