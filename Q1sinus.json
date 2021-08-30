@@ -1,7 +1,7 @@
  [
  {
         "question": "On obtient un signal somme d'amplitude maximale lorsque (une seule réponse vraie)",
-        "type": "many_choice",
+        "type": "multiple_choice",
         "answers": [
             {
                 "answer": "Les sinusoïdes sont déphasées de pi/2",
@@ -10,8 +10,8 @@
             },
             {
                 "answer": "Les sinusoïdes sont en opposition de phase (i.e. déphasées de pi)",
-                "correct": true,
-                "feedback": "Réponse correcte ! Le cos(pi/2) prend une valeur maximale de +1 (en valeur absolue)"
+                "correct": false,
+                "feedback": "Réponse fausse ! cos(pi/2)=0 donc la sinusoïde somme est nulle !"
             },
             {
                 "answer": "Les phases des deux sinusoïdes sont égales",
