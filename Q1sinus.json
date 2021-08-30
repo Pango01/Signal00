@@ -25,4 +25,30 @@
             }
         ]
     },
+     {
+        "question": "Le signal somme s'annule lorsque (une seule réponse vraie)",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Les sinusoïdes sont déphasées de pi/2",
+                "correct": false,
+                "feedback": "Réponse fausse. "
+            },
+            {
+                "answer": "Les sinusoïdes sont en opposition de phase (i.e. déphasées de pi)",
+                "correct": true,
+                "feedback": "Réponse correct ! cos(pi/2)=0 donc la sinusoïde somme est nulle !"
+            },
+            {
+                "answer": "Les phases des deux sinusoïdes sont égales",
+                "correct": false,
+                "feedback": "Réponse fausse ! Le cos(0) prend alors la valeur maximale de 1"
+            },
+            {
+                "answer": "les sinusoïdes sont déphasées de pi/4",
+                "correct": false,
+                "feedback": "Réponse fausse."
+            }
+        ]
+    }
     ]
