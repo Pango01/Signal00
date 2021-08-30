@@ -19,7 +19,7 @@
                 "feedback": "Correct ! Le sin(0) prend alors la valeur maximale de 1"
             },
             {
-                "answer": "les snusoïdes sont déphasées de pi/4",
+                "answer": "les sinusoïdes sont déphasées de pi/4",
                 "correct": false,
                 "feedback": "False."
             }
